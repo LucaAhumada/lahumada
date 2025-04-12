@@ -39,7 +39,6 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucaAhumada&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=LucaAhumada&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=LucaAhumada&theme=github-compact" />
 </p>
